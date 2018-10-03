@@ -1,5 +1,5 @@
 # 中国地级市间公路距离
-[中文](#中国地级市间公路距离)  [Eng](#road-distance-between-prefectures-in-China)  
+
 用百度地图API获取中国地级市的坐标和两两市间公路距离，同市的公路距离取市内各县级市间距离的均值。
 API代码见"GetDistance.ipynb"。
 
